@@ -1,6 +1,6 @@
-# COMP 551 Assignment 4 - Reproducing "Dropout: A Simple Way to Prevent Neural Networks from Overfitting"
+#  Reproducing "Dropout: A Simple Way to Prevent Neural Networks from Overfitting"
 
-**Authors:** Carl Machaalani (260895058), Winnie Yongru Pan (261001758)  
+**Authors:** Carl Machaalani, Winnie Yongru Pan
 **Date:** December 5, 2023
 
 ## Abstract
