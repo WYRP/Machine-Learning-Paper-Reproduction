@@ -50,5 +50,4 @@ This study validates dropout as an effective regularization technique, reducing 
 - **Yongru:** Reproduced Claim 3 and completed the rest of the write-up.
 
 
-**The Full Report can be found in the repository. 
-**
+**The Full Report can be found in the repository. **
