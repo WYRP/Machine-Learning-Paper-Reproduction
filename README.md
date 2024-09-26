@@ -4,7 +4,8 @@
 **Date:** December 5, 2023
 
 ## Abstract
-In this project, we reproduce the key aspects of the paper "Dropout: A Simple Way to Prevent Neural Networks from Overfitting." We implement dropout during the training of a neural network, randomly dropping neurons and their connections. Our results demonstrate that dropout improves accuracy by reducing overfitting, achieving major improvements over other regularization techniques.
+In this project, we reproduce the key aspects of the paper ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf) We implement dropout during the training of a neural network, randomly dropping neurons and their connections. Our results demonstrate that dropout improves accuracy by reducing overfitting, achieving major improvements over other regularization techniques.
+
 
 ## 1. Introduction
 Neural networks are versatile but prone to overfitting. To address this, we reproduce models as close to the original paper, introducing dropout to simulate multiple network configurations efficiently.
