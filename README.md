@@ -48,10 +48,5 @@ This study validates dropout as an effective regularization technique, reducing 
 - **Carl:** Reproduced Claims 1 and 2, corresponding code, and result write-ups.
 - **Yongru:** Reproduced Claim 3 and completed the rest of the write-up.
 
-## Appendix
-- **Figure 1:** Error Rate Comparison
-- **Table 1:** Architecture of the Dropout Neural Network with Logistic Activation
-- **Table 2:** Architecture of the Dropout Neural Network with ReLU Activation
 
-For the full report, including code, please refer to [Google Colab Link](https://colab.research.google.com).
 
